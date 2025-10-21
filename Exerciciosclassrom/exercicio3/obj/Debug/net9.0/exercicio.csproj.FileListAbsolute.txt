@@ -1,0 +1,14 @@
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\bin\Debug\net9.0\exercicio.exe
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\bin\Debug\net9.0\exercicio.deps.json
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\bin\Debug\net9.0\exercicio.runtimeconfig.json
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\bin\Debug\net9.0\exercicio.dll
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\bin\Debug\net9.0\exercicio.pdb
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.AssemblyInfo.cs
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.dll
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\refint\exercicio.dll
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.pdb
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\exercicio.genruntimeconfig.cache
+C:\Users\50242919804\Desktop\Back End\Exerciciosclassrom\exercicio3\obj\Debug\net9.0\ref\exercicio.dll
