@@ -7,19 +7,23 @@ namespace Exemplos
 {
     public class ContaCorrente : ContaBancaria
     {
-        public double Saldo;
-        public override void Depositar(double valor)
+        public override void Depositar(double Deposito)
         {
-           if(valor <= 0)
+            if(Deposito > 0)
             {
-                System.Console.WriteLine($"O valor do saque deve ser maior que R$0,0");
-                return;
-            }
+            Saldo += Deposito;
+            } 
         }
-
-        public override void Sacar(double valor)
+        public override void Sacar(double Saque)
         {
-            throw new NotImplementedException();
+            if( Saque <= Saldo)
+            {
+               Saldo -= Saque;
+            }
+            else
+            {
+                System.Console.WriteLine("Saldo insuficiente");
+            }
         }
     }
 }

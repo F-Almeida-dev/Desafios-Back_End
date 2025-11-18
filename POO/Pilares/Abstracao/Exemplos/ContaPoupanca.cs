@@ -5,27 +5,27 @@ using System.Threading.Tasks;
 
 namespace Exemplos
 {
-    public class ContaPoupanca : ContaBancaria
+
+    public class ContaPoupança : ContaBancaria
     {
-        public double Saldo;
-        public override void Depositar(double valor)
-        {
-              if(valor <= 0)
-            {
-                System.Console.WriteLine($"O valor do saque deve ser maior que R$0,0");
-                return;
-        }
 
-       Saldo += valor;
+    private double TaxaSaque = 1.02;
+    private double TaxaDeposito = 1.05;
 
-        }
-        public override void Sacar(double valor)
+        public override void Depositar(double Deposito)
         {
-              if(valor >= 0 || valor <= Saldo)
+            Saldo += Deposito * TaxaDeposito;
+        }
+        public override void Sacar(double Saque)
+        {
+            if( Saque <= (Saldo * TaxaSaque))
             {
-                System.Console.WriteLine($"O valor do saque deve positivo e ter dinheiro suficienta para o saque");
-                return;
+               Saldo -= Saque * TaxaSaque;
+            }
+            else
+            {
+                System.Console.WriteLine("Saldo insuficiente");
+            }
         }
     }
-  }
 }

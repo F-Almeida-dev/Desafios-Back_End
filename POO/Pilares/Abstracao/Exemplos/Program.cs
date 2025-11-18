@@ -1,12 +1,18 @@
-﻿// 1. Classe Animal~
-// Criua uma classe abstrata chamada Animal com os métodos FazerSom() e Mover().
-// 
+﻿using Exemplos;
 
-using System.Reflection;
-using Exemplos;
 
-// Cachorro toto = new Cachorro();
-// Gato gatinho = new Gato();
-// Aluno edu = new Aluno();
+// Cachorro Totó = new Cachorro();
+// Gato Gatinho = new Gato();
+// Pessoa Edu = new Pessoa();
 
-    
+
+
+ContaCorrente ContaC1 = new ContaCorrente();
+ContaPoupança ContaP1 = new ContaPoupança();
+
+
+
+ContaP1.Depositar(100);
+System.Console.WriteLine($"Saldo da Conta: R$:{ContaP1.Saldo}");
+ContaP1.Sacar(10);
+System.Console.WriteLine($"Saldo da Conta: R$:{ContaP1.Saldo}");

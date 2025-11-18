@@ -1,0 +1,41 @@
+﻿// Criar um Classe ControleRemoto
+// Implementar os métodos e propriedades da interface
+// Criar um objeto controleTV e testar os métodos
+
+// Criar uma classe ControleRemoto
+// Implementar os métodos e propriedades da interface
+// criar um objeto controleTv e testar os métodos
+
+
+using Exemplos;
+
+// ControleRemoto controleTvSala = new ControleRemoto();
+// controleTvSala.Ligar();
+// controleTvSala.DiminuirVolume();
+
+
+
+// Crie uma interface IMotor com o método:
+
+// void Acelerar();
+
+// Crie as classes Carro e Moto que implementem a interface.
+// Depois, crie um objeto da classe Carro e rode o método Acelerar!
+
+// Moto motoca = new Moto();
+// Carro poisEh = new Carro();
+
+// motoca.Acelerar();
+// poisEh.Acelerar();
+
+// Cria um novo projeto chamado "ExerciciosInterfafce"
+
+//Exercicio 1
+// Crie uma interface chamada IForma com o método CalcularArea.
+// Crie duas classes que implementem essa interface: Retangulo e Circulo
+// No program, peça o valor necessário e exiba a área calculada para cada forma
+
+// No Retângulo utilizar o calculo = Largura * Altura ;
+// No circulo utilizar o calculo = PI * Raio * Raio;
+
+//Extra: Pesquisar sobre a classe mth do C# e utilizar a constante PI - Math.PI

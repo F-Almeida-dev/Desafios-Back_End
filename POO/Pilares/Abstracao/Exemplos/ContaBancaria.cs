@@ -7,7 +7,9 @@ namespace Exemplos
 {
     public abstract class ContaBancaria
     {
-        public abstract void Depositar(double valor);
-        public abstract void Sacar(double valor);
+        public double Saldo = 0;
+
+        public abstract void Depositar(double Deposito);
+        public abstract void Sacar(double Saque);
     }
 }
