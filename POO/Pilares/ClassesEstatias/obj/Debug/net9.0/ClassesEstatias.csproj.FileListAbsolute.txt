@@ -1,0 +1,15 @@
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\bin\Debug\net9.0\ClassesEstatias.exe
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\bin\Debug\net9.0\ClassesEstatias.deps.json
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\bin\Debug\net9.0\ClassesEstatias.runtimeconfig.json
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\bin\Debug\net9.0\ClassesEstatias.dll
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\bin\Debug\net9.0\ClassesEstatias.pdb
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.AssemblyInfoInputs.cache
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.AssemblyInfo.cs
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.csproj.CoreCompileInputs.cache
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.sourcelink.json
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.dll
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\refint\ClassesEstatias.dll
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.pdb
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ClassesEstatias.genruntimeconfig.cache
+C:\Users\50242919804\Desktop\Back End\POO\Pilares\ClassesEstatias\obj\Debug\net9.0\ref\ClassesEstatias.dll
