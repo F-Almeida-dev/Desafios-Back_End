@@ -135,7 +135,7 @@ void CadastrarContrato()
     string contratante = Console.ReadLine();
     Console.WriteLine();
 
-    Console.WriteLine($"Digite o nome do PrestadorServiso");
+    Console.WriteLine($"Digite o nome da empressa contratada");
     string PrestadorServiso = Console.ReadLine();
     Console.WriteLine();
 
@@ -158,4 +158,40 @@ void CadastrarRelatorio()
     Console.WriteLine();
 
     Relatorio R = new Relatorio(Nome, TextoRelatorio);
+}
+
+void listadeFaturas()
+{
+    System.Console.WriteLine($"Listando as faturas:");
+     foreach (var item in documentos)
+     {
+        if (item is Fatura)
+        {
+             item.Imprimir();
+        }
+     }
+}
+
+void listadeContratos()
+{
+    System.Console.WriteLine($"Listando os Contratos:");
+    foreach (var item in documentos)
+    {
+        if (item is Contrato)
+        {
+            item.Imprimir();
+        }
+    }
+}
+
+void listadeRelatorios()
+{
+    System.Console.WriteLine($"Listando os Relatórios:");
+    foreach (var item in documentos)
+    {
+        if (item is Relatorio)
+        {
+            item.Imprimir();
+        }
+    }
 }

@@ -30,12 +30,3 @@ using Exemplos;
 
 // Cria um novo projeto chamado "ExerciciosInterfafce"
 
-//Exercicio 1
-// Crie uma interface chamada IForma com o método CalcularArea.
-// Crie duas classes que implementem essa interface: Retangulo e Circulo
-// No program, peça o valor necessário e exiba a área calculada para cada forma
-
-// No Retângulo utilizar o calculo = Largura * Altura ;
-// No circulo utilizar o calculo = PI * Raio * Raio;
-
-//Extra: Pesquisar sobre a classe mth do C# e utilizar a constante PI - Math.PI
